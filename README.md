@@ -4,7 +4,7 @@
 
 The user wanted an automated solution that can scrape episode data from Netflix.
 
-### Test Cases to automate:
+### Test Steps to automate:
 
 * Import an excel sheet containing the link to Tv series
 * Log into Netflix with inserted username, password.
@@ -14,6 +14,10 @@ The user wanted an automated solution that can scrape episode data from Netflix.
 * Continue until all the season has been done.
 * Move to a new Tv-series from the Excel sheet
 * Continue until all Tv-series have been scraped.
+
+###Test Cases:
+
+https://docs.google.com/spreadsheets/d/1hEhIRDhrGaT-UL6e7ilhUkWJ9PYKSxmhG9KwUhKb7qU/edit?usp=sharing
 
 ### Final result :
 
