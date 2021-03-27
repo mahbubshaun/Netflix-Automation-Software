@@ -4,7 +4,7 @@
 
 The user wanted an automated solution that can scrape episode data from Netflix.
 
-### Test Steps to automate:
+### Steps to automate:
 
 * Import an excel sheet containing the link to Tv series
 * Log into Netflix with inserted username, password.
