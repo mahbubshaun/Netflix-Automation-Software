@@ -173,7 +173,7 @@ public class netflix {
         });
     }
 
-    public static void event_top3() {
+    public static void startAutomationProcess() {
         SwingWorker<Void, Void> email = new SwingWorker<Void, Void>() {
 
             public Workbook wb;
@@ -841,7 +841,7 @@ public class netflix {
 
                     }
 
-                    event_top3();
+                    startAutomationProcess();
                     JOptionPane.showMessageDialog(null, "Bot started");
                 }
 
