@@ -17,5 +17,5 @@ The user wanted an automated solution that can scrape episode data from Netflix.
 
 
 ### Final result :
-
+#### Click the image below to watch tutorial video
 [![Click to watch](doc/Screenshot_19.png)](https://www.youtube.com/watch?v=koh0ek_DXw8 "Click here to watch")
